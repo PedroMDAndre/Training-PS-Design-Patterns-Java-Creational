@@ -4,16 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="29e374cb-598a-49a9-ae08-ff8a892069cf" name="Changes" comment="1st commit">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/libraries.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/derby.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/libraries/derby.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/libraries/derbyclient.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/singleton/DbSingleton.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/singleton/DbSingletonDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Training-PS-Design-Patterns-Java-Creational.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Training-PS-Design-Patterns-Java-Creational.iml" afterDir="false" />
+    <list default="true" id="29e374cb-598a-49a9-ae08-ff8a892069cf" name="Changes" comment="Singleton">
+      <change afterPath="$PROJECT_DIR$/src/main/java/builder/LunchOrder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/builder/LunchOrderDemo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/singleton/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/singleton/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,13 +54,26 @@
       <recent name="main.java.singleton" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.DbSingletonDemo">
+  <component name="RunManager" selected="Application.LunchOrderDemo">
     <configuration name="DbSingletonDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="main.java.singleton.DbSingletonDemo" />
       <module name="Training-PS-Design-Patterns-Java-Creational" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="main.java.singleton.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LunchOrderDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.java.builder.LunchOrderDemo" />
+      <module name="Training-PS-Design-Patterns-Java-Creational" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="main.java.builder.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -89,6 +96,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.LunchOrderDemo" />
         <item itemvalue="Application.DbSingletonDemo" />
         <item itemvalue="Application.Main" />
       </list>
@@ -110,7 +118,14 @@
       <option name="project" value="LOCAL" />
       <updated>1653343939485</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Singleton">
+      <created>1653345553351</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1653345553351</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -127,6 +142,7 @@
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="1st commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="1st commit" />
+    <MESSAGE value="Singleton" />
+    <option name="LAST_COMMIT_MESSAGE" value="Singleton" />
   </component>
 </project>
