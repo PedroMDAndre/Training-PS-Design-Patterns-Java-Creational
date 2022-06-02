@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="29e374cb-598a-49a9-ae08-ff8a892069cf" name="Changes" comment="Builder">
+    <list default="true" id="29e374cb-598a-49a9-ae08-ff8a892069cf" name="Changes" comment="Factory">
       <change afterPath="$PROJECT_DIR$/src/main/java/pt/paterns/factory/FactoryDemo.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/pt/paterns/factory/page/AboutPage.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/pt/paterns/factory/page/CartPage.java" afterDir="false" />
@@ -18,16 +18,7 @@
       <change afterPath="$PROJECT_DIR$/src/main/java/pt/paterns/factory/website/Shop.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/pt/paterns/factory/website/Website.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/pt/paterns/factory/website/WebsiteFactory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Training-PS-Design-Patterns-Java-Creational.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Training-PS-Design-Patterns-Java-Creational.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/builder/LunchOrder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pt/paterns/builder/LunchOrder.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/builder/LunchOrderDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pt/paterns/builder/LunchOrderDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/singleton/DbSingleton.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pt/paterns/singleton/DbSingleton.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/singleton/DbSingletonDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pt/paterns/singleton/DbSingletonDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/singleton/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pt/paterns/singleton/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/singleton/Singleton.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pt/paterns/singleton/Singleton.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/singleton/SingletonLazyLoad.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pt/paterns/singleton/SingletonLazyLoad.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/singleton/SingletonThreadSafe.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pt/paterns/singleton/SingletonThreadSafe.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pt/paterns/factory/website/WebsiteType.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,6 +29,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
+        <option value="Enum" />
       </list>
     </option>
   </component>
@@ -177,7 +169,14 @@
       <option name="project" value="LOCAL" />
       <updated>1653346819591</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Rearrange structure">
+      <created>1654187646705</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1654187646705</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -196,6 +195,8 @@
     <MESSAGE value="1st commit" />
     <MESSAGE value="Singleton" />
     <MESSAGE value="Builder" />
-    <option name="LAST_COMMIT_MESSAGE" value="Builder" />
+    <MESSAGE value="Rearrange structure" />
+    <MESSAGE value="Factory" />
+    <option name="LAST_COMMIT_MESSAGE" value="Factory" />
   </component>
 </project>
