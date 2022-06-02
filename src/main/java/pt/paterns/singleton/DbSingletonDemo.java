@@ -1,4 +1,4 @@
-package main.java.singleton;
+package pt.paterns.singleton;
 
 import java.sql.Connection;
 import java.sql.ResultSet;

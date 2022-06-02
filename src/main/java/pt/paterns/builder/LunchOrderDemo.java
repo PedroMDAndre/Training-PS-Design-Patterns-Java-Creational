@@ -1,4 +1,4 @@
-package main.java.builder;
+package pt.paterns.builder;
 
 public class LunchOrderDemo {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package main.java.singleton;
+package pt.paterns.singleton;
 
 public class Singleton {
 

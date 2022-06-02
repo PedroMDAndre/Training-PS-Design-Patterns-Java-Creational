@@ -1,4 +1,4 @@
-package main.java.builder;
+package pt.paterns.builder;
 
 public class LunchOrder {
     public static class LunchOrderBuilder {
