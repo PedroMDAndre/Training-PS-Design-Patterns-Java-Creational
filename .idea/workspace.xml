@@ -5,20 +5,23 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="29e374cb-598a-49a9-ae08-ff8a892069cf" name="Changes" comment="Factory">
-      <change afterPath="$PROJECT_DIR$/src/main/java/pt/paterns/factory/FactoryDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pt/paterns/factory/page/AboutPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pt/paterns/factory/page/CartPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pt/paterns/factory/page/CommentPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pt/paterns/factory/page/ContactPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pt/paterns/factory/page/ItemPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pt/paterns/factory/page/Page.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pt/paterns/factory/page/PostPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pt/paterns/factory/page/SearchPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pt/paterns/factory/website/Blog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pt/paterns/factory/website/Shop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pt/paterns/factory/website/Website.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pt/paterns/factory/website/WebsiteFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pt/paterns/factory/website/WebsiteType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pt/paterns/abstract_factory/AbstractFactoryDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pt/paterns/abstract_factory/AbstractFactoryEverydayDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pt/paterns/abstract_factory/credit_card/AmexGoldCreditCard.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pt/paterns/abstract_factory/credit_card/AmexPlatinumCreditCard.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pt/paterns/abstract_factory/credit_card/CardType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pt/paterns/abstract_factory/credit_card/CreditCard.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pt/paterns/abstract_factory/credit_card/VisaBlackCreditCard.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pt/paterns/abstract_factory/credit_card/VisaCreditCard.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pt/paterns/abstract_factory/credit_card/VisaGoldCreditCard.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pt/paterns/abstract_factory/factory/AmexFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pt/paterns/abstract_factory/factory/CreditCardFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pt/paterns/abstract_factory/factory/VisaFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pt/paterns/abstract_factory/validator/AmexGoldValidator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pt/paterns/abstract_factory/validator/AmexPlatinumValidator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pt/paterns/abstract_factory/validator/Validator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pt/paterns/abstract_factory/validator/VisaValidator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -176,7 +179,14 @@
       <option name="project" value="LOCAL" />
       <updated>1654187646705</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Factory">
+      <created>1654187743807</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1654187743807</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
