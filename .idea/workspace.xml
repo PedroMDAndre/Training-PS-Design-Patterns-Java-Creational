@@ -4,23 +4,17 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="29e374cb-598a-49a9-ae08-ff8a892069cf" name="Changes" comment="Factory">
-      <change afterPath="$PROJECT_DIR$/src/main/java/pt/paterns/abstract_factory/AbstractFactoryDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pt/paterns/abstract_factory/AbstractFactoryEverydayDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pt/paterns/abstract_factory/credit_card/AmexGoldCreditCard.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pt/paterns/abstract_factory/credit_card/AmexPlatinumCreditCard.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pt/paterns/abstract_factory/credit_card/CardType.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pt/paterns/abstract_factory/credit_card/CreditCard.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pt/paterns/abstract_factory/credit_card/VisaBlackCreditCard.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pt/paterns/abstract_factory/credit_card/VisaCreditCard.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pt/paterns/abstract_factory/credit_card/VisaGoldCreditCard.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pt/paterns/abstract_factory/factory/AmexFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pt/paterns/abstract_factory/factory/CreditCardFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pt/paterns/abstract_factory/factory/VisaFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pt/paterns/abstract_factory/validator/AmexGoldValidator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pt/paterns/abstract_factory/validator/AmexPlatinumValidator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pt/paterns/abstract_factory/validator/Validator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pt/paterns/abstract_factory/validator/VisaValidator.java" afterDir="false" />
+    <list default="true" id="29e374cb-598a-49a9-ae08-ff8a892069cf" name="Changes" comment="Abstract Factory">
+      <change afterPath="$PROJECT_DIR$/src/main/java/pt/paterns/prototype/item_demo/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pt/paterns/prototype/item_demo/Item.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pt/paterns/prototype/item_demo/ItemType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pt/paterns/prototype/item_demo/Movie.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pt/paterns/prototype/item_demo/PrototypeDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pt/paterns/prototype/item_demo/Registry.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pt/paterns/prototype/sql_demo/PrototypeEverydayDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pt/paterns/prototype/sql_demo/Record.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pt/paterns/prototype/sql_demo/Statement.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Training-PS-Design-Patterns-Java-Creational.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Training-PS-Design-Patterns-Java-Creational.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -31,8 +25,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="Enum" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -68,6 +62,7 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.26697356" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -80,7 +75,7 @@
       <recent name="main.java.singleton" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.FactoryDemo">
+  <component name="RunManager" selected="Application.PrototypeDemo">
     <configuration name="DbSingletonDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="main.java.singleton.DbSingletonDemo" />
       <module name="Training-PS-Design-Patterns-Java-Creational" />
@@ -120,12 +115,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="main.java.singleton.Main" />
+    <configuration name="PrototypeDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pt.paterns.prototype.item_demo.PrototypeDemo" />
       <module name="Training-PS-Design-Patterns-Java-Creational" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="main.java.singleton.*" />
+          <option name="PATTERN" value="pt.paterns.prototype.item_demo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PrototypeEverydayDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pt.paterns.prototype.sql_demo.PrototypeEverydayDemo" />
+      <module name="Training-PS-Design-Patterns-Java-Creational" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pt.paterns.prototype.sql_demo.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -135,10 +143,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.PrototypeDemo" />
+        <item itemvalue="Application.PrototypeEverydayDemo" />
         <item itemvalue="Application.FactoryDemo" />
         <item itemvalue="Application.LunchOrderDemo" />
         <item itemvalue="Application.DbSingletonDemo" />
-        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -186,7 +195,21 @@
       <option name="project" value="LOCAL" />
       <updated>1654187743807</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Abstract Factory">
+      <created>1654250392426</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1654250392426</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Abstract Factory">
+      <created>1654250410248</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1654250410248</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -207,6 +230,7 @@
     <MESSAGE value="Builder" />
     <MESSAGE value="Rearrange structure" />
     <MESSAGE value="Factory" />
-    <option name="LAST_COMMIT_MESSAGE" value="Factory" />
+    <MESSAGE value="Abstract Factory" />
+    <option name="LAST_COMMIT_MESSAGE" value="Abstract Factory" />
   </component>
 </project>
