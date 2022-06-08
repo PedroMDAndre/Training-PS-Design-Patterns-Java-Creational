@@ -5,63 +5,69 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="29e374cb-598a-49a9-ae08-ff8a892069cf" name="Changes" comment="Prototype">
-      <change afterPath="$PROJECT_DIR$/src/main/java/pt/paterns/structural/adapter/AdapterDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pt/paterns/structural/adapter/AdapterEverydayDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pt/paterns/structural/adapter/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pt/paterns/structural/adapter/EmployeeAdapterCSV.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pt/paterns/structural/adapter/EmployeeAdapterLdap.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pt/paterns/structural/adapter/EmployeeCSV.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pt/paterns/structural/adapter/EmployeeClient.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pt/paterns/structural/adapter/EmployeeDb.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pt/paterns/structural/adapter/EmployeeLdap.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pt/paterns/abstract_factory/AbstractFactoryDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pt/paterns/creational/abstract_factory/AbstractFactoryDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pt/paterns/abstract_factory/AbstractFactoryEverydayDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pt/paterns/creational/abstract_factory/AbstractFactoryEverydayDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pt/paterns/abstract_factory/credit_card/AmexGoldCreditCard.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pt/paterns/creational/abstract_factory/credit_card/AmexGoldCreditCard.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pt/paterns/abstract_factory/credit_card/AmexPlatinumCreditCard.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pt/paterns/creational/abstract_factory/credit_card/AmexPlatinumCreditCard.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pt/paterns/abstract_factory/credit_card/CardType.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pt/paterns/creational/abstract_factory/credit_card/CardType.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pt/paterns/abstract_factory/credit_card/CreditCard.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pt/paterns/creational/abstract_factory/credit_card/CreditCard.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pt/paterns/abstract_factory/credit_card/VisaBlackCreditCard.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pt/paterns/creational/abstract_factory/credit_card/VisaBlackCreditCard.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pt/paterns/abstract_factory/credit_card/VisaCreditCard.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pt/paterns/creational/abstract_factory/credit_card/VisaCreditCard.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pt/paterns/abstract_factory/credit_card/VisaGoldCreditCard.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pt/paterns/creational/abstract_factory/credit_card/VisaGoldCreditCard.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pt/paterns/abstract_factory/factory/AmexFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pt/paterns/creational/abstract_factory/factory/AmexFactory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pt/paterns/abstract_factory/factory/CreditCardFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pt/paterns/creational/abstract_factory/factory/CreditCardFactory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pt/paterns/abstract_factory/factory/VisaFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pt/paterns/creational/abstract_factory/factory/VisaFactory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pt/paterns/abstract_factory/validator/AmexGoldValidator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pt/paterns/creational/abstract_factory/validator/AmexGoldValidator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pt/paterns/abstract_factory/validator/AmexPlatinumValidator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pt/paterns/creational/abstract_factory/validator/AmexPlatinumValidator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pt/paterns/abstract_factory/validator/Validator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pt/paterns/creational/abstract_factory/validator/Validator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pt/paterns/abstract_factory/validator/VisaValidator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pt/paterns/creational/abstract_factory/validator/VisaValidator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pt/paterns/builder/LunchOrder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pt/paterns/creational/builder/LunchOrder.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pt/paterns/builder/LunchOrderDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pt/paterns/creational/builder/LunchOrderDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pt/paterns/factory/FactoryDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pt/paterns/creational/factory/FactoryDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pt/paterns/factory/page/AboutPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pt/paterns/creational/factory/page/AboutPage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pt/paterns/factory/page/CartPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pt/paterns/creational/factory/page/CartPage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pt/paterns/factory/page/CommentPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pt/paterns/creational/factory/page/CommentPage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pt/paterns/factory/page/ContactPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pt/paterns/creational/factory/page/ContactPage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pt/paterns/factory/page/ItemPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pt/paterns/creational/factory/page/ItemPage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pt/paterns/factory/page/Page.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pt/paterns/creational/factory/page/Page.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pt/paterns/factory/page/PostPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pt/paterns/creational/factory/page/PostPage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pt/paterns/factory/page/SearchPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pt/paterns/creational/factory/page/SearchPage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pt/paterns/factory/website/Blog.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pt/paterns/creational/factory/website/Blog.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pt/paterns/factory/website/Shop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pt/paterns/creational/factory/website/Shop.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pt/paterns/factory/website/Website.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pt/paterns/creational/factory/website/Website.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pt/paterns/factory/website/WebsiteFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pt/paterns/creational/factory/website/WebsiteFactory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pt/paterns/factory/website/WebsiteType.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pt/paterns/creational/factory/website/WebsiteType.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pt/paterns/prototype/item_demo/Book.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pt/paterns/creational/prototype/item_demo/Book.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pt/paterns/prototype/item_demo/Item.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pt/paterns/creational/prototype/item_demo/Item.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pt/paterns/prototype/item_demo/ItemType.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pt/paterns/creational/prototype/item_demo/ItemType.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pt/paterns/prototype/item_demo/Movie.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pt/paterns/creational/prototype/item_demo/Movie.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pt/paterns/prototype/item_demo/PrototypeDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pt/paterns/creational/prototype/item_demo/PrototypeDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pt/paterns/prototype/item_demo/Registry.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pt/paterns/creational/prototype/item_demo/Registry.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pt/paterns/prototype/sql_demo/PrototypeEverydayDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pt/paterns/creational/prototype/sql_demo/PrototypeEverydayDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pt/paterns/prototype/sql_demo/Record.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pt/paterns/creational/prototype/sql_demo/Record.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pt/paterns/prototype/sql_demo/Statement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pt/paterns/creational/prototype/sql_demo/Statement.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pt/paterns/singleton/DbSingleton.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pt/paterns/creational/singleton/DbSingleton.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pt/paterns/singleton/DbSingletonDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pt/paterns/creational/singleton/DbSingletonDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pt/paterns/singleton/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pt/paterns/creational/singleton/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pt/paterns/singleton/Singleton.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pt/paterns/creational/singleton/Singleton.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pt/paterns/singleton/SingletonLazyLoad.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pt/paterns/creational/singleton/SingletonLazyLoad.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pt/paterns/singleton/SingletonThreadSafe.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pt/paterns/creational/singleton/SingletonThreadSafe.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/0/00de3d54a9df54efea816d8b5f1caa0b11d839b2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/7/a7c30820953d3058ae34d7c1d585aa37740d72d5" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Training-PS-Design-Patterns-Java-Creational/pt/paterns/creational/abstract_factory/AbstractFactoryDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Training-PS-Design-Patterns-Java-Creational/pt/paterns/creational/abstract_factory/AbstractFactoryEverydayDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Training-PS-Design-Patterns-Java-Creational/pt/paterns/creational/abstract_factory/credit_card/AmexGoldCreditCard.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Training-PS-Design-Patterns-Java-Creational/pt/paterns/creational/abstract_factory/credit_card/AmexPlatinumCreditCard.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Training-PS-Design-Patterns-Java-Creational/pt/paterns/creational/abstract_factory/credit_card/CardType.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Training-PS-Design-Patterns-Java-Creational/pt/paterns/creational/abstract_factory/credit_card/CreditCard.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Training-PS-Design-Patterns-Java-Creational/pt/paterns/creational/abstract_factory/credit_card/VisaBlackCreditCard.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Training-PS-Design-Patterns-Java-Creational/pt/paterns/creational/abstract_factory/credit_card/VisaCreditCard.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Training-PS-Design-Patterns-Java-Creational/pt/paterns/creational/abstract_factory/credit_card/VisaGoldCreditCard.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Training-PS-Design-Patterns-Java-Creational/pt/paterns/creational/abstract_factory/factory/AmexFactory$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Training-PS-Design-Patterns-Java-Creational/pt/paterns/creational/abstract_factory/factory/AmexFactory.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Training-PS-Design-Patterns-Java-Creational/pt/paterns/creational/abstract_factory/factory/CreditCardFactory.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Training-PS-Design-Patterns-Java-Creational/pt/paterns/creational/abstract_factory/factory/VisaFactory$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Training-PS-Design-Patterns-Java-Creational/pt/paterns/creational/abstract_factory/factory/VisaFactory.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Training-PS-Design-Patterns-Java-Creational/pt/paterns/creational/abstract_factory/validator/AmexGoldValidator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Training-PS-Design-Patterns-Java-Creational/pt/paterns/creational/abstract_factory/validator/AmexPlatinumValidator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Training-PS-Design-Patterns-Java-Creational/pt/paterns/creational/abstract_factory/validator/Validator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Training-PS-Design-Patterns-Java-Creational/pt/paterns/creational/abstract_factory/validator/VisaValidator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Training-PS-Design-Patterns-Java-Creational/pt/paterns/creational/builder/LunchOrder$LunchOrderBuilder.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Training-PS-Design-Patterns-Java-Creational/pt/paterns/creational/builder/LunchOrder.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Training-PS-Design-Patterns-Java-Creational/pt/paterns/creational/builder/LunchOrderDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Training-PS-Design-Patterns-Java-Creational/pt/paterns/creational/factory/FactoryDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Training-PS-Design-Patterns-Java-Creational/pt/paterns/creational/factory/page/AboutPage.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Training-PS-Design-Patterns-Java-Creational/pt/paterns/creational/factory/page/CartPage.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Training-PS-Design-Patterns-Java-Creational/pt/paterns/creational/factory/page/CommentPage.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Training-PS-Design-Patterns-Java-Creational/pt/paterns/creational/factory/page/ContactPage.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Training-PS-Design-Patterns-Java-Creational/pt/paterns/creational/factory/page/ItemPage.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Training-PS-Design-Patterns-Java-Creational/pt/paterns/creational/factory/page/Page.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Training-PS-Design-Patterns-Java-Creational/pt/paterns/creational/factory/page/PostPage.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Training-PS-Design-Patterns-Java-Creational/pt/paterns/creational/factory/page/SearchPage.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Training-PS-Design-Patterns-Java-Creational/pt/paterns/creational/factory/website/Blog.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Training-PS-Design-Patterns-Java-Creational/pt/paterns/creational/factory/website/Shop.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Training-PS-Design-Patterns-Java-Creational/pt/paterns/creational/factory/website/Website.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Training-PS-Design-Patterns-Java-Creational/pt/paterns/creational/factory/website/WebsiteFactory$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Training-PS-Design-Patterns-Java-Creational/pt/paterns/creational/factory/website/WebsiteFactory.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Training-PS-Design-Patterns-Java-Creational/pt/paterns/creational/factory/website/WebsiteType.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Training-PS-Design-Patterns-Java-Creational/pt/paterns/creational/prototype/item_demo/Book.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Training-PS-Design-Patterns-Java-Creational/pt/paterns/creational/prototype/item_demo/Item.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Training-PS-Design-Patterns-Java-Creational/pt/paterns/creational/prototype/item_demo/ItemType.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Training-PS-Design-Patterns-Java-Creational/pt/paterns/creational/prototype/item_demo/Movie.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Training-PS-Design-Patterns-Java-Creational/pt/paterns/creational/prototype/item_demo/PrototypeDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Training-PS-Design-Patterns-Java-Creational/pt/paterns/creational/prototype/item_demo/Registry.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Training-PS-Design-Patterns-Java-Creational/pt/paterns/creational/prototype/sql_demo/PrototypeEverydayDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Training-PS-Design-Patterns-Java-Creational/pt/paterns/creational/prototype/sql_demo/Record.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Training-PS-Design-Patterns-Java-Creational/pt/paterns/creational/prototype/sql_demo/Statement.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Training-PS-Design-Patterns-Java-Creational/pt/paterns/creational/singleton/DbSingleton.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Training-PS-Design-Patterns-Java-Creational/pt/paterns/creational/singleton/DbSingletonDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Training-PS-Design-Patterns-Java-Creational/pt/paterns/creational/singleton/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Training-PS-Design-Patterns-Java-Creational/pt/paterns/creational/singleton/Singleton.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Training-PS-Design-Patterns-Java-Creational/pt/paterns/creational/singleton/SingletonLazyLoad.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Training-PS-Design-Patterns-Java-Creational/pt/paterns/creational/singleton/SingletonThreadSafe.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Training-PS-Design-Patterns-Java-Creational/pt/paterns/structural/adapter/AdapterDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Training-PS-Design-Patterns-Java-Creational/pt/paterns/structural/adapter/AdapterEverydayDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Training-PS-Design-Patterns-Java-Creational/pt/paterns/structural/adapter/Employee.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Training-PS-Design-Patterns-Java-Creational/pt/paterns/structural/adapter/EmployeeAdapterCSV.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Training-PS-Design-Patterns-Java-Creational/pt/paterns/structural/adapter/EmployeeAdapterLdap.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Training-PS-Design-Patterns-Java-Creational/pt/paterns/structural/adapter/EmployeeCSV.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Training-PS-Design-Patterns-Java-Creational/pt/paterns/structural/adapter/EmployeeClient.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Training-PS-Design-Patterns-Java-Creational/pt/paterns/structural/adapter/EmployeeDb.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Training-PS-Design-Patterns-Java-Creational/pt/paterns/structural/adapter/EmployeeLdap.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -95,6 +101,7 @@
     <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
@@ -265,7 +272,14 @@
       <option name="project" value="LOCAL" />
       <updated>1654261248886</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Prototype">
+      <created>1654722807165</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1654722807165</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
