@@ -5,69 +5,28 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="29e374cb-598a-49a9-ae08-ff8a892069cf" name="Changes" comment="Prototype">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/0/00de3d54a9df54efea816d8b5f1caa0b11d839b2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/7/a7c30820953d3058ae34d7c1d585aa37740d72d5" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Training-PS-Design-Patterns-Java-Creational/pt/paterns/creational/abstract_factory/AbstractFactoryDemo.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Training-PS-Design-Patterns-Java-Creational/pt/paterns/creational/abstract_factory/AbstractFactoryEverydayDemo.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Training-PS-Design-Patterns-Java-Creational/pt/paterns/creational/abstract_factory/credit_card/AmexGoldCreditCard.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Training-PS-Design-Patterns-Java-Creational/pt/paterns/creational/abstract_factory/credit_card/AmexPlatinumCreditCard.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Training-PS-Design-Patterns-Java-Creational/pt/paterns/creational/abstract_factory/credit_card/CardType.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Training-PS-Design-Patterns-Java-Creational/pt/paterns/creational/abstract_factory/credit_card/CreditCard.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Training-PS-Design-Patterns-Java-Creational/pt/paterns/creational/abstract_factory/credit_card/VisaBlackCreditCard.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Training-PS-Design-Patterns-Java-Creational/pt/paterns/creational/abstract_factory/credit_card/VisaCreditCard.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Training-PS-Design-Patterns-Java-Creational/pt/paterns/creational/abstract_factory/credit_card/VisaGoldCreditCard.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Training-PS-Design-Patterns-Java-Creational/pt/paterns/creational/abstract_factory/factory/AmexFactory$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Training-PS-Design-Patterns-Java-Creational/pt/paterns/creational/abstract_factory/factory/AmexFactory.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Training-PS-Design-Patterns-Java-Creational/pt/paterns/creational/abstract_factory/factory/CreditCardFactory.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Training-PS-Design-Patterns-Java-Creational/pt/paterns/creational/abstract_factory/factory/VisaFactory$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Training-PS-Design-Patterns-Java-Creational/pt/paterns/creational/abstract_factory/factory/VisaFactory.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Training-PS-Design-Patterns-Java-Creational/pt/paterns/creational/abstract_factory/validator/AmexGoldValidator.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Training-PS-Design-Patterns-Java-Creational/pt/paterns/creational/abstract_factory/validator/AmexPlatinumValidator.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Training-PS-Design-Patterns-Java-Creational/pt/paterns/creational/abstract_factory/validator/Validator.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Training-PS-Design-Patterns-Java-Creational/pt/paterns/creational/abstract_factory/validator/VisaValidator.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Training-PS-Design-Patterns-Java-Creational/pt/paterns/creational/builder/LunchOrder$LunchOrderBuilder.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Training-PS-Design-Patterns-Java-Creational/pt/paterns/creational/builder/LunchOrder.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Training-PS-Design-Patterns-Java-Creational/pt/paterns/creational/builder/LunchOrderDemo.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Training-PS-Design-Patterns-Java-Creational/pt/paterns/creational/factory/FactoryDemo.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Training-PS-Design-Patterns-Java-Creational/pt/paterns/creational/factory/page/AboutPage.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Training-PS-Design-Patterns-Java-Creational/pt/paterns/creational/factory/page/CartPage.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Training-PS-Design-Patterns-Java-Creational/pt/paterns/creational/factory/page/CommentPage.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Training-PS-Design-Patterns-Java-Creational/pt/paterns/creational/factory/page/ContactPage.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Training-PS-Design-Patterns-Java-Creational/pt/paterns/creational/factory/page/ItemPage.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Training-PS-Design-Patterns-Java-Creational/pt/paterns/creational/factory/page/Page.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Training-PS-Design-Patterns-Java-Creational/pt/paterns/creational/factory/page/PostPage.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Training-PS-Design-Patterns-Java-Creational/pt/paterns/creational/factory/page/SearchPage.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Training-PS-Design-Patterns-Java-Creational/pt/paterns/creational/factory/website/Blog.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Training-PS-Design-Patterns-Java-Creational/pt/paterns/creational/factory/website/Shop.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Training-PS-Design-Patterns-Java-Creational/pt/paterns/creational/factory/website/Website.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Training-PS-Design-Patterns-Java-Creational/pt/paterns/creational/factory/website/WebsiteFactory$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Training-PS-Design-Patterns-Java-Creational/pt/paterns/creational/factory/website/WebsiteFactory.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Training-PS-Design-Patterns-Java-Creational/pt/paterns/creational/factory/website/WebsiteType.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Training-PS-Design-Patterns-Java-Creational/pt/paterns/creational/prototype/item_demo/Book.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Training-PS-Design-Patterns-Java-Creational/pt/paterns/creational/prototype/item_demo/Item.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Training-PS-Design-Patterns-Java-Creational/pt/paterns/creational/prototype/item_demo/ItemType.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Training-PS-Design-Patterns-Java-Creational/pt/paterns/creational/prototype/item_demo/Movie.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Training-PS-Design-Patterns-Java-Creational/pt/paterns/creational/prototype/item_demo/PrototypeDemo.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Training-PS-Design-Patterns-Java-Creational/pt/paterns/creational/prototype/item_demo/Registry.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Training-PS-Design-Patterns-Java-Creational/pt/paterns/creational/prototype/sql_demo/PrototypeEverydayDemo.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Training-PS-Design-Patterns-Java-Creational/pt/paterns/creational/prototype/sql_demo/Record.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Training-PS-Design-Patterns-Java-Creational/pt/paterns/creational/prototype/sql_demo/Statement.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Training-PS-Design-Patterns-Java-Creational/pt/paterns/creational/singleton/DbSingleton.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Training-PS-Design-Patterns-Java-Creational/pt/paterns/creational/singleton/DbSingletonDemo.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Training-PS-Design-Patterns-Java-Creational/pt/paterns/creational/singleton/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Training-PS-Design-Patterns-Java-Creational/pt/paterns/creational/singleton/Singleton.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Training-PS-Design-Patterns-Java-Creational/pt/paterns/creational/singleton/SingletonLazyLoad.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Training-PS-Design-Patterns-Java-Creational/pt/paterns/creational/singleton/SingletonThreadSafe.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Training-PS-Design-Patterns-Java-Creational/pt/paterns/structural/adapter/AdapterDemo.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Training-PS-Design-Patterns-Java-Creational/pt/paterns/structural/adapter/AdapterEverydayDemo.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Training-PS-Design-Patterns-Java-Creational/pt/paterns/structural/adapter/Employee.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Training-PS-Design-Patterns-Java-Creational/pt/paterns/structural/adapter/EmployeeAdapterCSV.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Training-PS-Design-Patterns-Java-Creational/pt/paterns/structural/adapter/EmployeeAdapterLdap.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Training-PS-Design-Patterns-Java-Creational/pt/paterns/structural/adapter/EmployeeCSV.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Training-PS-Design-Patterns-Java-Creational/pt/paterns/structural/adapter/EmployeeClient.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Training-PS-Design-Patterns-Java-Creational/pt/paterns/structural/adapter/EmployeeDb.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Training-PS-Design-Patterns-Java-Creational/pt/paterns/structural/adapter/EmployeeLdap.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pt/paterns/structural/bridge/color_shape/shape_problem/BlueCircle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pt/paterns/structural/bridge/color_shape/shape_problem/BlueSquare.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pt/paterns/structural/bridge/color_shape/shape_problem/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pt/paterns/structural/bridge/color_shape/shape_problem/GreenSquare.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pt/paterns/structural/bridge/color_shape/shape_problem/RedCircle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pt/paterns/structural/bridge/color_shape/shape_problem/RedSquare.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pt/paterns/structural/bridge/color_shape/shape_problem/Shape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pt/paterns/structural/bridge/color_shape/shape_problem/Shape1BridgeDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pt/paterns/structural/bridge/color_shape/shape_problem/Square.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pt/paterns/structural/bridge/color_shape/shape_solution/Shape2BridgeDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pt/paterns/structural/bridge/color_shape/shape_solution/color/Blue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pt/paterns/structural/bridge/color_shape/shape_solution/color/Color.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pt/paterns/structural/bridge/color_shape/shape_solution/color/ColorType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pt/paterns/structural/bridge/color_shape/shape_solution/color/Green.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pt/paterns/structural/bridge/color_shape/shape_solution/color/Red.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pt/paterns/structural/bridge/color_shape/shape_solution/shape/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pt/paterns/structural/bridge/color_shape/shape_solution/shape/Shape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pt/paterns/structural/bridge/color_shape/shape_solution/shape/ShapeType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pt/paterns/structural/bridge/color_shape/shape_solution/shape/Square.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pt/paterns/structural/bridge/jbdc/BridgeEverydayDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/derby.log" beforeDir="false" afterPath="$PROJECT_DIR$/derby.log" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -131,7 +90,7 @@
       <recent name="main.java.singleton" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.AbstractFactoryDemo">
+  <component name="RunManager" selected="Application.Shape2BridgeDemo">
     <configuration name="AbstractFactoryDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="pt.paterns.creational.abstract_factory.AbstractFactoryDemo" />
       <module name="Training-PS-Design-Patterns-Java-Creational" />
@@ -158,12 +117,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="AdapterEverydayDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="pt.paterns.structural.adapter.AdapterEverydayDemo" />
+    <configuration name="BridgeEverydayDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pt.paterns.structural.bridge.jbdc.BridgeEverydayDemo" />
       <module name="Training-PS-Design-Patterns-Java-Creational" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="pt.paterns.structural.adapter.*" />
+          <option name="PATTERN" value="pt.paterns.structural.bridge.jbdc.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -171,12 +130,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PrototypeDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="pt.paterns.creational.prototype.item_demo.PrototypeDemo" />
+    <configuration name="Shape1BridgeDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pt.paterns.structural.bridge.color_shape.shape_problem.Shape1BridgeDemo" />
       <module name="Training-PS-Design-Patterns-Java-Creational" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="pt.paterns.creational.prototype.item_demo.*" />
+          <option name="PATTERN" value="pt.paterns.structural.bridge.color_shape.shape_problem.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -184,12 +143,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PrototypeEverydayDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="pt.paterns.creational.prototype.sql_demo.PrototypeEverydayDemo" />
+    <configuration name="Shape2BridgeDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pt.paterns.structural.bridge.color_shape.shape_solution.Shape2BridgeDemo" />
       <module name="Training-PS-Design-Patterns-Java-Creational" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="pt.paterns.creational.prototype.sql_demo.*" />
+          <option name="PATTERN" value="pt.paterns.structural.bridge.color_shape.shape_solution.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -199,11 +158,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Shape2BridgeDemo" />
+        <item itemvalue="Application.Shape1BridgeDemo" />
+        <item itemvalue="Application.BridgeEverydayDemo" />
         <item itemvalue="Application.AbstractFactoryDemo" />
         <item itemvalue="Application.AdapterDemo" />
-        <item itemvalue="Application.AdapterEverydayDemo" />
-        <item itemvalue="Application.PrototypeDemo" />
-        <item itemvalue="Application.PrototypeEverydayDemo" />
       </list>
     </recent_temporary>
   </component>
@@ -279,7 +238,14 @@
       <option name="project" value="LOCAL" />
       <updated>1654722807165</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Prototype">
+      <created>1654723128662</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1654723128662</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
