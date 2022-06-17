@@ -4,29 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="29e374cb-598a-49a9-ae08-ff8a892069cf" name="Changes" comment="Prototype">
-      <change afterPath="$PROJECT_DIR$/src/main/java/pt/paterns/structural/bridge/color_shape/shape_problem/BlueCircle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pt/paterns/structural/bridge/color_shape/shape_problem/BlueSquare.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pt/paterns/structural/bridge/color_shape/shape_problem/Circle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pt/paterns/structural/bridge/color_shape/shape_problem/GreenSquare.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pt/paterns/structural/bridge/color_shape/shape_problem/RedCircle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pt/paterns/structural/bridge/color_shape/shape_problem/RedSquare.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pt/paterns/structural/bridge/color_shape/shape_problem/Shape.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pt/paterns/structural/bridge/color_shape/shape_problem/Shape1BridgeDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pt/paterns/structural/bridge/color_shape/shape_problem/Square.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pt/paterns/structural/bridge/color_shape/shape_solution/Shape2BridgeDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pt/paterns/structural/bridge/color_shape/shape_solution/color/Blue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pt/paterns/structural/bridge/color_shape/shape_solution/color/Color.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pt/paterns/structural/bridge/color_shape/shape_solution/color/ColorType.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pt/paterns/structural/bridge/color_shape/shape_solution/color/Green.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pt/paterns/structural/bridge/color_shape/shape_solution/color/Red.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pt/paterns/structural/bridge/color_shape/shape_solution/shape/Circle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pt/paterns/structural/bridge/color_shape/shape_solution/shape/Shape.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pt/paterns/structural/bridge/color_shape/shape_solution/shape/ShapeType.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pt/paterns/structural/bridge/color_shape/shape_solution/shape/Square.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pt/paterns/structural/bridge/jbdc/BridgeEverydayDemo.java" afterDir="false" />
+    <list default="true" id="29e374cb-598a-49a9-ae08-ff8a892069cf" name="Changes" comment="Composite">
+      <change afterPath="$PROJECT_DIR$/output.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pt/paterns/structural/decorator/file_example/DecoratorEverydayDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pt/paterns/structural/decorator/sandwich_example/DecoratorSandwichDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pt/paterns/structural/decorator/sandwich_example/DressingDecorator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pt/paterns/structural/decorator/sandwich_example/MeatDecorator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pt/paterns/structural/decorator/sandwich_example/Sandwich.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pt/paterns/structural/decorator/sandwich_example/SandwichDecorator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pt/paterns/structural/decorator/sandwich_example/SimpleSandwich.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/derby.log" beforeDir="false" afterPath="$PROJECT_DIR$/derby.log" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -90,13 +77,13 @@
       <recent name="main.java.singleton" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Shape2BridgeDemo">
-    <configuration name="AbstractFactoryDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="pt.paterns.creational.abstract_factory.AbstractFactoryDemo" />
+  <component name="RunManager" selected="Application.DecoratorSandwichDemo">
+    <configuration name="CompositeMenuDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pt.paterns.structural.composite.menu_example.CompositeMenuDemo" />
       <module name="Training-PS-Design-Patterns-Java-Creational" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="pt.paterns.creational.abstract_factory.*" />
+          <option name="PATTERN" value="pt.paterns.structural.composite.menu_example.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -104,12 +91,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="AdapterDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="pt.paterns.structural.adapter.AdapterDemo" />
+    <configuration name="DecoratorEverydayDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pt.paterns.structural.decorator.file_example.DecoratorEverydayDemo" />
       <module name="Training-PS-Design-Patterns-Java-Creational" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="pt.paterns.structural.adapter.*" />
+          <option name="PATTERN" value="pt.paterns.structural.decorator.file_example.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -117,12 +104,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BridgeEverydayDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="pt.paterns.structural.bridge.jbdc.BridgeEverydayDemo" />
+    <configuration name="DecoratorSandwichDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pt.paterns.structural.decorator.sandwich_example.DecoratorSandwichDemo" />
       <module name="Training-PS-Design-Patterns-Java-Creational" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="pt.paterns.structural.bridge.jbdc.*" />
+          <option name="PATTERN" value="pt.paterns.structural.decorator.sandwich_example.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -158,11 +145,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.DecoratorSandwichDemo" />
+        <item itemvalue="Application.DecoratorEverydayDemo" />
+        <item itemvalue="Application.CompositeMenuDemo" />
         <item itemvalue="Application.Shape2BridgeDemo" />
         <item itemvalue="Application.Shape1BridgeDemo" />
-        <item itemvalue="Application.BridgeEverydayDemo" />
-        <item itemvalue="Application.AbstractFactoryDemo" />
-        <item itemvalue="Application.AdapterDemo" />
       </list>
     </recent_temporary>
   </component>
