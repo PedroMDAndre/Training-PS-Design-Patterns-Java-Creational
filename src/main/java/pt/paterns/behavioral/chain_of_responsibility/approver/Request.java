@@ -2,8 +2,8 @@ package pt.paterns.behavioral.chain_of_responsibility.approver;
 
 public class Request {
 
-    private RequestType requestType;
-    private double amount;
+    private final RequestType requestType;
+    private final double amount;
 
     public Request(RequestType requestType, double amount) {
         this.requestType = requestType;
