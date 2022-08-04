@@ -1,4 +1,4 @@
-package pt.paterns.behavioral.state.initial;
+package pt.paterns.behavioral.state.fan_problem;
 
 public class Fan {
 
