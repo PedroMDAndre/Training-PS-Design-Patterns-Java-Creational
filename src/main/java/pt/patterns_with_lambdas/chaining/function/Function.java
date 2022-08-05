@@ -12,4 +12,12 @@ public interface Function<T, R> {
         return (T t) -> other.apply(this.apply(t));
     }
 
+    default <V> Function<V, R> composing(Function<V, T> other) {
+        Objects.requireNonNull(other);
+        return (V v) -> {
+            T t = other.apply(v);
+            return this.apply(t);
+        };
+    }
+
 }

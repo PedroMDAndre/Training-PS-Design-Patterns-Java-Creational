@@ -17,6 +17,9 @@ public class PlayWithFunctions {
         System.out.println("Meteo in F " + celsiusToFahrenheit.apply(readCelsius.apply(meteo)));
         System.out.println("Meteo in F " + readFahrenheit.apply(meteo));
 
+        readFahrenheit = celsiusToFahrenheit.composing(readCelsius);
+        System.out.println("Meteo in F " + readFahrenheit.apply(meteo));
+
     }
 
 }
