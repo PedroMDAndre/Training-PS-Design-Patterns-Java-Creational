@@ -9,7 +9,7 @@ public class PlayWithFunctions {
 
         Meteo meteo = new Meteo(20);
 
-        Function<Meteo, Integer> readCelsius = Meteo::getTemperature;
+        Function<Meteo, Integer> readCelsius = Meteo::temperature;
         Function<Integer, Double> celsiusToFahrenheit = t -> t * 9d/5d + 32d;
 
         Function<Meteo, Double> readFahrenheit = readCelsius.andThen(celsiusToFahrenheit);
