@@ -12,4 +12,8 @@ public interface Predicate<T> {
         return (T t) -> this.test(t) && other.test(t);
     }
 
+    default Predicate<T> negate() {
+        return (T t) -> !this.test(t);
+    }
+
 }

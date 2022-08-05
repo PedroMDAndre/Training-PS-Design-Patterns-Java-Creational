@@ -9,6 +9,21 @@ public class PlayWithPredicates {
     public static void main(String[] args) {
 
         Predicate<String> p1 = Objects::nonNull;
+        Predicate<String> p2 = str -> str.isEmpty();
+
+        Predicate<String> notP2 = p2.negate();
+
+        Predicate<String> p3 = p1.and(notP2);
+
+        System.out.println("Test for null: " + p3.test(null));
+        System.out.println("Test for empty: " + p3.test(""));
+        System.out.println("Test for non empty: " + p3.test("Hello"));
+
+    }
+
+    private static void test1() {
+
+        Predicate<String> p1 = Objects::nonNull;
         Predicate<String> p2 = str -> !str.isEmpty();
 
         Predicate<String> p3 = p1.and(p2);
@@ -18,5 +33,4 @@ public class PlayWithPredicates {
         System.out.println("Test for non empty: " + p3.test("Hello"));
 
     }
-
 }
