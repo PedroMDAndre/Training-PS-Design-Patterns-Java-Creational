@@ -2,7 +2,7 @@ package pt.patterns_with_lambdas.factory.model;
 
 import java.awt.*;
 
-public class Circle {
+public class Circle extends Shape {
 
     private final Color color;
 
